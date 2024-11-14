@@ -1,0 +1,3 @@
+ht = int(input('8 horas'))
+result = ht * 19
+print('O Resultado de horas trabalhadas')
